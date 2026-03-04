@@ -35,3 +35,4 @@ A company cannot fix its culture or retention rates if it doesn't know exactly w
 ---
 *Created by Veeru Shakya | Data Analyst & ETL Engineer*# HR_Attrition_Analytics
 
+![HR Analytics Dashboard](Dashboard_Screenshot.png)
